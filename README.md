@@ -3,7 +3,7 @@ Rclone Cloud Mounter helps you mount cloud storage in your local PC using rclone
 
 ## Requirements
 
-- [Rclone](https://rclone.org/downloads/) must be installed on your system
+- [Rclone](https://rclone.org/downloads/)
 
 ## Installation
 
