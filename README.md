@@ -7,13 +7,12 @@ Rclone Cloud Mounter helps you mount cloud storage in your local PC using rclone
 
 - [Rclone](https://rclone.org/downloads/)
 
-  ```
-  winget install -e --id Rclone.Rclone
-  ```
 - [WinFsp](https://winfsp.dev/rel/)
 
+  To easily install following requirments, run below commands using powershell (support Windows 10 version 1709 and later).
    ```
    winget install -e --id WinFsp.WinFsp
+   winget install -e --id Rclone.Rclone
    ```
 
 ## Installation
