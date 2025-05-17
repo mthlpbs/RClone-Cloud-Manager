@@ -16,11 +16,9 @@ Rclone Cloud Mounter helps you mount cloud storage in your local PC using rclone
 
 ## Installation
 
-1. Download the latest release package
-   https://github.com/asurpbs/Cloud-Drive-Mounter/releases/download/cloud-drive-mounter/cloud-drive-mounter-v-1.0.0.7z
-2. Extract the downloaded archive
-3. Configure your cloud drives using rclone (see Usage section below)
-4. Run the application and select your configured cloud drive
+1. [Download the latest executable file from here](https://github.com/asurpbs/RClone-Cloud-Manager/releases/latest)
+2. Configure your cloud drives using rclone (see Usage section below)
+3. Run the application and select your configured cloud drive
 
 ## Usage
 
